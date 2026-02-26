@@ -91,9 +91,11 @@ operations/
 pip install pillow opencv-python
 ```
  Запуск:
+ ```Bush
 
 
 python main.py
+```
 
  Git команды
 Bash
