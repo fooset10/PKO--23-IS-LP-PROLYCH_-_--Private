@@ -85,9 +85,11 @@ operations/
 ##  Как запустить?
 
 ###  Установка зависимостей:
+```
 
 
 pip install pillow opencv-python
+```
  Запуск:
 
 
