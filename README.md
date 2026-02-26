@@ -124,7 +124,9 @@ screenshots/
 Bash
 
 # Первый коммит
+```Bush
 git add .
+```
 git commit -m "Initial commit"
 git push
 
