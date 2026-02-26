@@ -85,15 +85,15 @@ operations/
 ##  Как запустить?
 
 ###  Установка зависимостей:
-Bash
+```Bash
 
 pip install pillow opencv-python
  Запуск:
-Bash
+```Bash
 
 python main.py
  Git команды
-Bash
+```Bash
 
 # Просмотр изменений
 git diff
