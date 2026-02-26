@@ -127,7 +127,7 @@ screenshots/
 git add .
 git commit -m "Initial commit"
 git push
-```Bush
+
 
 # После добавления авторизации с hashlib
 git add .
