@@ -134,8 +134,8 @@ git add .
 git commit -m "add login with password hashing"
 git push
 ```
-| ФИО | Группа |
-| Пролыгин Максим Алексеевич|  |23ИСД|
+ФИО	Группа
+Пролыгин Максим Алексеевич	23ИСд
 
 
 
