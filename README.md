@@ -134,7 +134,7 @@ git add .
 git commit -m "add login with password hashing"
 git push
 ```
-Пролыгин Максим Алексеевич	23ИСд
+```Пролыгин Максим Алексеевич	23ИСд```
 
 
 
