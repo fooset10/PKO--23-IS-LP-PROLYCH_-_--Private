@@ -85,7 +85,7 @@ operations/
 ##  Как запустить?
 
 ###  Установка зависимостей:
-```
+```Bush
 
 
 pip install pillow opencv-python
