@@ -138,6 +138,7 @@ git push
 
 
 • Фотографии
-https://yandex.ru/images/search?family=yes&from=tabbar&img_url=http%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fportrait-happy-boy-sitting-clapping-hands-while-enjoying-holiday-outdoors_132075-5818.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&lr=213&pos=25&rpt=simage&text=%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%A4%D0%98%D0%98%20%D0%9C%D0%90%D0%9B%D0%AB%D0%A8%D0%90
+1 . https://yandex.ru/images/search?family=yes&from=tabbar&img_url=http%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fportrait-happy-boy-sitting-clapping-hands-while-enjoying-holiday-outdoors_132075-5818.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&lr=213&pos=25&rpt=simage&text=%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%A4%D0%98%D0%98%20%D0%9C%D0%90%D0%9B%D0%AB%D0%A8%D0%90
+2. https://yandex.ru/images/search?family=yes&from=tabbar&img_url=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fportrait-happy-cute-baby-generative-ai_90153-4328.jpg&lr=213&pos=17&rpt=simage&text=%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D0%A4%D0%98%D0%98%20%D0%9C%D0%90%D0%9B%D0%AB%D0%A8%D0%90
 
 
