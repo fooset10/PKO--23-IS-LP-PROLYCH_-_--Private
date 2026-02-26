@@ -133,6 +133,9 @@ git push
 git add .
 git commit -m "add login with password hashing"
 git push
+| ФИО | Группа |
+|------|--------|
+| Бузанов Семён Александрович |23ИСд|
 
 
 
