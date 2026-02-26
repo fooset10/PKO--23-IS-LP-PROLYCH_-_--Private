@@ -138,6 +138,8 @@ git push
 | ФИО | Группа |
 |------|--------|
 | Пролыгин Максим Алексеевич |23ИСд|
+<img width="969" height="652" alt="image" src="https://github.com/user-attachments/assets/a0960a79-f899-4559-86e3-ed7aa593fcd8" />
+
 
 
 
