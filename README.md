@@ -130,9 +130,8 @@ git add .
 git commit -m "Initial commit"
 ```Bush
 git push .
-
-# После добавления авторизации с hashlib
 ```Bush
+# После добавления авторизации с hashlib
 git add .
 git commit -m "add login with password hashing"
 git push
