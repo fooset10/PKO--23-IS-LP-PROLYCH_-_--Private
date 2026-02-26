@@ -107,10 +107,11 @@ git diff main.py
 ###  Инструкция по выполнению:
 
 1️. Создайте репозиторий:
-Bash
+```Bush
 
 git clone https://github.com/neuro-awake/neuro-awake_Task006_Фамилия3_Имя_группа.git
 cd neuro-awake_Task006_Фамилия3_Имя_группа
+```
 
 2️. Добавьте файлы:
 
