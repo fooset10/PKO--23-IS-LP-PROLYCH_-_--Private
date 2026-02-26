@@ -92,7 +92,7 @@ pip install pillow opencv-python
 
 
 python main.py
-```
+
  Git команды
 Bash
 
