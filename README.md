@@ -124,23 +124,6 @@ screenshots/
 Bash
 
 # Первый коммит
-```Bush
-git add .
-```
-git commit -m "Initial commit"
-```Bush
-git push .
-
-# После добавления авторизации с hashlib
-git add .
-git commit -m "add login with password hashing"
-git push
-| ФИО | Группа |
-|------|--------|
-| Пролыгин Максим Алексеевич |23ИСд|
-3️⃣ Коммиты:
-
-# Первый коммит
 git add .
 git commit -m "Initial commit"
 git push
